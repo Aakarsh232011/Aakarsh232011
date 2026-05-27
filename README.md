@@ -1,6 +1,3 @@
-# README.md
-
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,50:3A86FF,100:8338EC&text=Aakarsh%20A%20Bhat&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
@@ -25,23 +22,22 @@
 
 <table>
 <tr>
-
 <td width="50%">
 
-### ⚡ STATUS
+## ⚡ STATUS
 
 ```diff
 + Online
 + Building Projects
 + Learning AI
 + Exploring New Technologies
-````
+```
 
 </td>
 
 <td width="50%">
 
-### 🎯 CURRENT MISSION
+## 🎯 CURRENT MISSION
 
 🏰 Ancient Bestiary
 
@@ -52,7 +48,6 @@
 🚀 Open Source Journey
 
 </td>
-
 </tr>
 </table>
 
@@ -60,63 +55,52 @@
 
 # 🧠 ABOUT ME
 
-<table>
-<tr>
-<td>
-
 ```yaml
 Name: Aakarsh A Bhat
 
-Location: India
+Location: India 🇮🇳
 
-Class: 10
+Role: Student Developer
 
-Current Focus:
+Focus:
   - Web Development
   - Generative AI
   - Game Development
+  - UI/UX Design
 
 Current Project:
   - Ancient Bestiary
-
-Mission:
-  Turn imagination into reality through code.
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
 # ⚔️ QUEST LOG
 
-| Quest                  | Progress     |
-| ---------------------- | ------------ |
-| Portfolio Website      | ✅ Completed  |
-| School Website         | ✅ Completed  |
-| Ancient Bestiary       | ✅ Completed  |
-| MSDC AI Camp           | ✅ Completed  |
-| AI Projects            | 🔄 Ongoing   |
-| Open Source            | 🔄 Ongoing   |
-| Full Stack Development | 🎯 Next Goal |
+| Quest | Status |
+|--------|--------|
+| Portfolio Website | ✅ |
+| School Website | ✅ |
+| Ancient Bestiary | ✅ |
+| MSDC AI Camp | ✅ |
+| AI Projects | 🔄 |
+| Open Source | 🔄 |
+| Full Stack Development | 🎯 |
 
 ---
 
 # 🏰 FEATURED PROJECTS
 
 <table>
-
 <tr>
 
 <td width="50%">
 
 ## ⚔️ Ancient Bestiary
 
-Explore mythical creatures from around the world.
+Explore creatures from mythology.
 
 <a href="https://ancient-bestiary.lovable.app/">
-<img src="./assets/bestiary-preview.png"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00C9FF?style=for-the-badge"/>
 </a>
 
 </td>
@@ -125,16 +109,15 @@ Explore mythical creatures from around the world.
 
 ## 🌐 Portfolio
 
-Personal developer portfolio.
+Personal Developer Portfolio.
 
 <a href="https://aakarsh-portfolio--aakarshabhat.replit.app/">
-<img src="./assets/portfolio-preview.png"/>
+<img src="https://img.shields.io/badge/OPEN_PORTFOLIO-8338EC?style=for-the-badge"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -143,7 +126,7 @@ Personal developer portfolio.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,linux,figma&perline=10"/>
 
 </div>
 
@@ -151,19 +134,15 @@ Personal developer portfolio.
 
 # 🎮 SKILL MATRIX
 
-<div align="center">
-
-| Skill               | Level                    |
-| ------------------- | ------------------------ |
-| 🌐 HTML             | ████████████████████ 95% |
-| 🎨 CSS              | ██████████████████░░ 90% |
-| ⚡ JavaScript        | █████████████████░░░ 85% |
-| 🤖 Generative AI    | █████████████████░░░ 85% |
-| 🐍 Python           | ███████████████░░░░░ 75% |
-| ⚙️ C++              | ██████████████░░░░░░ 70% |
-| 🎮 Game Development | ███████████░░░░░░░░░ 55% |
-
-</div>
+| Skill | Power |
+|---------|---------|
+| 🌐 HTML | ████████████████████ |
+| 🎨 CSS | ██████████████████░░ |
+| ⚡ JavaScript | █████████████████░░░ |
+| 🤖 Generative AI | █████████████████░░░ |
+| 🐍 Python | ███████████████░░░░░ |
+| ⚙️ C++ | ██████████████░░░░░░ |
+| 🎮 Game Development | ███████████░░░░░░░░░ |
 
 ---
 
@@ -173,11 +152,11 @@ Personal developer portfolio.
 
 🥇 Website Builder
 
-🥈 Generative AI Explorer
+🥈 AI Explorer
 
 🥉 Ancient Bestiary Creator
 
-🏅 MSDC Summer Camp Participant
+🏅 MSDC Participant
 
 🎖️ Future Software Engineer
 
@@ -257,18 +236,6 @@ Personal developer portfolio.
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-> Requires the GitHub Action workflow.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aakarsh232011/Aakarsh232011/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 🚀 CURRENT FOCUS
 
 ```text
@@ -307,24 +274,15 @@ Class: Developer
 
 Level: 10
 
-Specialization:
-  - Websites
-  - AI
-  - Creative Projects
+Skills:
+  HTML: 95
+  CSS: 90
+  JavaScript: 85
+  Python: 75
+  AI: 85
 
 Special Ability:
   Build Cool Stuff
-```
-
----
-
-# 🎵 CODING MOOD
-
-```text
-☕ Coffee Level      ████████████████████
-🔥 Motivation        ███████████████████░
-🚀 New Ideas         ████████████████████
-🐛 Bugs Remaining    ███████░░░░░░░░░░░░░
 ```
 
 ---
@@ -339,16 +297,16 @@ Special Ability:
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT
 
 <div align="center">
 
 <a href="mailto:aakarshabhat@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-blue?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.topcoder.com/members/576102">
-<img src="https://img.shields.io/badge/TopCoder-Profile-orange?style=for-the-badge&logo=topcoder"/>
+<img src="https://img.shields.io/badge/TOPCODER-PROFILE-orange?style=for-the-badge&logo=topcoder"/>
 </a>
 
 </div>
@@ -362,4 +320,3 @@ Special Ability:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C9FF,50:3A86FF,100:8338EC"/>
 
 </div>
-```
