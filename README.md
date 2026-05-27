@@ -1,231 +1,241 @@
+<!-- ================= HERO ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Aakarsh%20A%20Bhat&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,50:3A86FF,100:8338EC&text=Aakarsh%20A%20Bhat&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-# 👋 Hi, I'm Aakarsh A Bhat
-
-### 🚀 Student • Developer • AI Explorer • Creator
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Websites;Learning+Generative+AI;Creating+Fantasy+Worlds;Future+Software+Engineer;Always+Building+Something+Cool"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=🚀+Building+Websites;🤖+Exploring+Generative+AI;⚔️+Creating+Ancient+Bestiary;🌌+Worldbuilder;💻+Future+Software+Engineer"/>
 
 </div>
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=aakarsh232011&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-## 🌌 About Me
-
-```yaml
-Name: Aakarsh A Bhat
-Country: India 🇮🇳
-Class: 10
-Role: Student & Developer
-
-Interests:
-  - Web Development
-  - Generative AI
-  - Game Development
-  - Mythology
-  - Fantasy Worldbuilding
-
-Current Project:
-  - Ancient Bestiary
-
-Mission:
-  Turn imagination into reality through code.
-```
-
-- 🔭 Currently working on **Ancient Bestiary**
-- 🌱 Learning **Generative AI & Modern Web Development**
-- ⚡ Building websites, AI projects, and fantasy universes
-- 📫 Reach me at **aakarshabhat@gmail.com**
-
----
-
-## ⚔️ Quest Log
-
-- ✅ Portfolio Website
-- ✅ School Website
-- ✅ Ancient Bestiary
-- ✅ MSDC Generative AI Camp
-- 🔄 AI Projects
-- 🔄 Indie Game Development
-- 🔄 Open Source Contributions
-- 🎯 Full Stack Development
-
----
-
-## 🏰 Featured Project
-
 <div align="center">
 
-### ⚔️ Ancient Bestiary
-
-A digital encyclopedia of legendary creatures from myths around the world.
-
-🌐 https://ancient-bestiary.lovable.app/
+![](https://img.shields.io/github/followers/Aakarsh232011?style=for-the-badge)
+![](https://img.shields.io/github/stars/Aakarsh232011?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Aakarsh232011&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
+# 🌌 DEVELOPER DASHBOARD
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode&perline=8"/>
+### ⚡ STATUS
 
-</p>
-
----
-
-## 🎮 Developer Skill Tree
-
-```text
-🌐 Web Development     ███████████████████░ 95%
-🤖 Generative AI       █████████████████░░░ 85%
-🐍 Python              ███████████████░░░░░ 75%
-⚙️ C++                 ██████████████░░░░░░ 70%
-🎮 Game Development    ███████████░░░░░░░░░ 55%
-🚀 Full Stack          ████████░░░░░░░░░░░░ 40%
+```diff
++ Online
++ Building Projects
++ Learning AI
++ Exploring New Tech
 ```
 
----
+</td>
 
-## 🏆 Achievement Vault
+<td width="50%">
 
-🥇 Built Multiple Websites
+### 🎯 CURRENT MISSION
 
-🥈 Generative AI Explorer
+🏰 Ancient Bestiary
 
-🥉 Ancient Bestiary Creator
+🤖 Generative AI
 
-🏅 MSDC Summer Camp Participant
+🌐 Advanced Websites
 
-🎖️ Future Software Engineer
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aakarsh232011&theme=algolia&row=2&column=4"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+# 🛸 LIVE METRICS
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarsh232011&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarsh232011&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Aakarsh232011&theme=algolia&no-frame=true&column=4"/>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakarsh232011&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 COMMAND CENTER
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh232011&theme=tokyo-night"/>
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aakarsh232011&show_icons=true&theme=tokyonight"/>
 
-## 🌟 GitHub Summary Cards
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakarsh232011&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakarsh232011&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakarsh232011&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakarsh232011&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakarsh232011&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakarsh232011&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Current Focus
+# 🔥 STREAK REACTOR
 
-```text
-Building Websites      ████████████████████
-Learning AI            ██████████████████░░
-Creating Projects      ███████████████████░
-Exploring New Tech     ██████████████████░░
-```
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Aakarsh232011&theme=tokyonight"/>
 
-## 🐉 Creature Of The Week
-
-### Garuda
-
-🪽 Divine King of Birds
-
-⚡ Faster than storms
-
-🐍 Enemy of serpents
-
-☀️ Symbol of freedom and power
+</div>
 
 ---
 
-## 🎵 Coding Mood
+# 🌍 CONTRIBUTION UNIVERSE
 
-```text
-☕ Coffee Level      ████████████████████
-🔥 Motivation        ███████████████████░
-🐛 Bugs              ███████░░░░░░░░░░░░░
-🚀 New Ideas         ████████████████████
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakarsh232011&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 SKILL MATRIX
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.topcoder.com/members/576102">
-<img src="https://img.shields.io/badge/TopCoder-Profile-orange?style=for-the-badge&logo=topcoder"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,linux&perline=9"/>
+
+</div>
+
+---
+
+# ⚔️ QUEST LOG
+
+<table>
+<tr>
+<td>✅ Portfolio Website</td>
+<td>100%</td>
+</tr>
+
+<tr>
+<td>✅ School Website</td>
+<td>100%</td>
+</tr>
+
+<tr>
+<td>✅ Ancient Bestiary</td>
+<td>100%</td>
+</tr>
+
+<tr>
+<td>🔄 AI Projects</td>
+<td>65%</td>
+</tr>
+
+<tr>
+<td>🎯 Open Source</td>
+<td>40%</td>
+</tr>
+</table>
+
+---
+
+# 📡 PROFILE ANALYTICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakarsh232011&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakarsh232011&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aakarsh232011&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏰 FEATURED PROJECT
+
+<div align="center">
+
+## ⚔️ Ancient Bestiary
+
+Explore legendary creatures from across the world.
+
+<a href="https://ancient-bestiary.lovable.app/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00C9FF?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💡 Random Dev Quote
+# 🐉 CREATURE OF THE WEEK
+
+<div align="center">
+
+# GARUDA
+
+🪽 Divine Bird
+
+⚡ Speed Beyond Storms
+
+☀️ Solar Warrior
+
+🐍 Enemy of Serpents
+
+</div>
+
+---
+
+# 🎮 RPG CHARACTER CARD
+
+```yaml
+Name: Aakarsh
+Class: Developer
+Level: 10
+
+Skills:
+  HTML: 95
+  CSS: 90
+  JavaScript: 85
+  Python: 75
+  AI: 80
+
+Special Ability:
+  Build Cool Stuff
+```
+
+---
+
+# 💬 RANDOM DEV QUOTE
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+</div>
+
 ---
 
-## 📅 Coding Calendar
+# 🌠 CONNECT
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakarsh232011&theme=tokyonight"/>
+<div align="center">
+
+<a href="https://www.topcoder.com/members/576102">
+<img src="https://img.shields.io/badge/TOPCODER-Profile-orange?style=for-the-badge&logo=topcoder"/>
+</a>
+
+<a href="mailto:aakarshabhat@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-blue?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Every great project starts as a spark of curiosity.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C9FF,100:8338EC"/>
 
 </div>
